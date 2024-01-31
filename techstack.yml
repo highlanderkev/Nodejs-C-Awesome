@@ -1,0 +1,108 @@
+repo_name: highlanderkev/Nodejs-C-Awesome
+report_id: 68f6cee730d2de04e0f2df379d8ee640
+version: 0.1
+repo_type: Public
+timestamp: '2024-01-31T17:16:55+00:00'
+requested_by: highlanderkev
+provider: github
+branch: master
+detected_tools_count: 8
+tools:
+- name: C++
+  description: Has imperative, object-oriented and generic programming features, while
+    also providing the facilities for low level memory manipulation
+  website_url: http://www.cplusplus.com/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1049/cplusplus.png
+  detection_source_url: https://github.com/highlanderkev/Nodejs-C-Awesome
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/highlanderkev/Nodejs-C-Awesome
+  detection_source: Repo Metadata
+- name: Python
+  description: A clear and powerful object-oriented programming language, comparable
+    to Perl, Ruby, Scheme, or Java.
+  website_url: https://www.python.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/highlanderkev/Nodejs-C-Awesome
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/highlanderkev/Nodejs-C-Awesome
+  detection_source: Repo Metadata
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/highlanderkev/Nodejs-C-Awesome/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Kevin Patrick Westropp
+  last_updated_on: 2016-09-20 18:59:18.000000000 Z
+- name: bindings
+  description: Helper module for loading your native module's .node file
+  package_url: https://www.npmjs.com/bindings
+  version: 1.2.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16564/default_aaf5839b9bd35cf60ebf8e1b59d64d8e3b398aaa.png
+  detection_source_url: https://github.com/highlanderkev/Nodejs-C-Awesome/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Kevin Patrick Westropp
+  last_updated_on: 2016-09-20 18:59:18.000000000 Z
+- name: nan
+  description: 'Native Abstractions for Node.js: C++ header for Node 0.8 -&gt; 11
+    compatibility'
+  package_url: https://www.npmjs.com/nan
+  version: 2.4.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16178/default_0d450fcd03a0343bb89c9b7c3a8cf092daa8c3b9.png
+  detection_source_url: https://github.com/highlanderkev/Nodejs-C-Awesome/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Kevin Patrick Westropp
+  last_updated_on: 2016-09-20 18:59:18.000000000 Z
+- name: node-gyp
+  description: Node.js native addon build tool
+  package_url: https://www.npmjs.com/node-gyp
+  version: 3.4.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16669/default_6dad4e42e12d47cc6edfbdea036dae12f91abebb.png
+  detection_source_url: https://github.com/highlanderkev/Nodejs-C-Awesome/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Kevin Patrick Westropp
+  last_updated_on: 2016-09-20 18:59:18.000000000 Z
